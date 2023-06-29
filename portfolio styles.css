@@ -1,14 +1,41 @@
+body{
+    background-color: black;
+}
+
+
 h1{
-    color: hotpink;
-    font-family: "Brush Script MT";
-    font-size: xx-large;
-    background-color: aliceblue;
+    color: gold;
+    font-family: "Arial Rounded MT Bold";
+    font-size: xxx-large;
 }a:hover{
-      color: hotpink;
-    }
+      color: white;
+ }
 
  p{
      font-family: "Arial Rounded MT Bold";
+     color: white;
  }
 
+ .nav-link{
+     color: gold;
 
+ }
+
+ .nav-link:hover{
+     color: white;
+ }
+
+ .l{
+     color: gold;
+     font-family: "Arial Rounded MT Bold";
+ }
+
+ h2{
+     font-family: "Arial Rounded MT Bold";
+     color: white;
+ }
+
+ h3{
+     font-family: "Arial Rounded MT Bold";
+     color: white;
+ }
